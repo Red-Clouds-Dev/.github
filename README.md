@@ -2,7 +2,7 @@
 
 ## About Us
 
-The Red Clouds Dev Team was founded on November 22nd, 2023. We are a small and passionate group of early developers, consisting of five individuals, dedicated to advancing our skills and knowledge in the field of computer science and programming.
+The Red Clouds Dev Team was founded on February 23rd, 2019. We are a small and passionate group of early developers, consisting of five individuals, dedicated to advancing our skills and knowledge in the field of computer science and programming.
 
 ## Our Mission
 
