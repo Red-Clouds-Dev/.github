@@ -14,6 +14,6 @@ We are actively working on various projects to broaden our horizons and make a p
 
 ## Contact Us
 
-Feel free to reach out to us if you have any questions, suggestions, or just want to connect. You can contact us via email at [email@example.com](mailto:redclouds727@gmail.com).
+Feel free to reach out to us if you have any questions, suggestions, or just want to connect. You can contact us via email at [redclouds727@gmail.com](mailto:email@example.com).
 
 Thank you for visiting our profile, and we look forward to sharing our journey in the world of computer science and programming with you!
